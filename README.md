@@ -52,10 +52,10 @@ For end-to-end (e2e) testing, run:
 ng e2e
 ```
 
-#live 
-....
+## Live Demo 
+```bash
 https://calculator-sofk.onrender.com
-...
+```
 
 
 
